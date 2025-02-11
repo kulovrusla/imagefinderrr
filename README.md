@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # imagefinderrr
 # image-finder
 # image-finder
+# image-finder
